@@ -1,4 +1,5 @@
 # USC Advancement Office Database Design Project
+** Author: [Kyna Ji](https://github.com/feiran-kyna-ji), Rebecca Xu, Leon Jiang, Joy Chen **
 **(Full report available upon request)**
 
 ## Client Overview 
